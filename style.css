@@ -1,0 +1,27 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+#box {
+height: 200px;
+width: 200px;
+background-color: (242,87,30)
+}
+
+#section {
+width: 600px;
+border: 1px;
+color: #222;
+}
+
+#box01 {
+float: left;
+}
+
+#box02 {
+float: right;
+}
+
+#box03 {
+float: left;
+}
